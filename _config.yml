@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+timezone: Europe/Warsaw
 
 github: [metadata]
 encoding: UTF-8
