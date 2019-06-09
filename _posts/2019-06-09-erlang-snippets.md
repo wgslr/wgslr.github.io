@@ -2,7 +2,7 @@
 title: Erlang
 ---
 
-Gotchas, things I've found surprisng in Erlang, or which I had to repeatedly look up on
+Gotchas, things I've found surprising in Erlang, or which I had to repeatedly look up on
 the web.
 
 ## Pattern matching in functions
