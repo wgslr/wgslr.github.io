@@ -2,8 +2,6 @@
 title: Erlang
 ---
 
-# {{ page.title }}
-
 Gotchas, things I've found surprisng in Erlang, or which I had to repeatedly look up on
 the web.
 

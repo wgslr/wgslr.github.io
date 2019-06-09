@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.site_title {
+    color: inherit;
+}
+
 small {
     font-size: 80%;
 }
